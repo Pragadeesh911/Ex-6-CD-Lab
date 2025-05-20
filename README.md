@@ -1,8 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 # Date :13/05/2025
-## Name: ASHOK KUMAR PREETHAM KUMAR
-## Reg No: 212224040032
+## Name: Pragadeesh S
+## Reg No: 212224220073
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -81,8 +81,8 @@ t2 = t1 - c
 ```
 
 # OUTPUT
+![Screenshot 2025-05-20 132255](https://github.com/user-attachments/assets/85dd8511-5eb1-4cd6-8106-b3201ba69066)
 
-![image](https://github.com/user-attachments/assets/2c265d4c-f684-4f9c-af90-2a000a359ee0)
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
